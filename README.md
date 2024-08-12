@@ -30,4 +30,6 @@
   This folder houses all Jupyter notebooks used in our project. These notebooks include scripts for data retrieval, preprocessing, satellite image analysis, and algorithm application for forest vegetation identification. 
 
 ## Using the notebooks
-
+- It is recommended that all notebooks be run in Google Colab. Ensure that you upload the ground truth files to the runtime Files in Google Colab. If you wish to save your progress, you may need to connect your Google Drive to Colab.
+- `Main.ipynb` notebook contains scripts for downloading satellite data, identifying specific geographic locations, applying Laplacian, Sobel, and Gabor methods, and assessing performance.
+- `Pitt_GLCM.ipynb` and `Gari_GLCM.ipynb` notebooks include scripts for performing Grey Level Co-occurrence Matrix (GLCM) analysis.
