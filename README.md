@@ -19,7 +19,7 @@
 - **Data Source**  
   The data sources for the project include Sentinel-2 L2A satellite imagery (e.g., sample images from the Pitt Meadows area) and Canada's Annual Forest Land Cover data to ensure detection results align with ground truth.
 
-- **Methodology**
+- **Methodology**  
   The methodology employs a static algorithm that combines texture features and NDVI (Normalized Difference Vegetation Index) values to effectively distinguish forested areas, emphasizing environmentally friendly and efficient vegetation classification.
 
 ## Folders description
