@@ -19,6 +19,9 @@
 - **Data Source**  
   The data sources for the project include Sentinel-2 L2A satellite imagery (e.g., sample images from the Pitt Meadows area) and Canada's Annual Forest Land Cover data to ensure detection results align with ground truth.
 
+- **Methodology**
+  The methodology employs a static algorithm that combines texture features and NDVI (Normalized Difference Vegetation Index) values to effectively distinguish forested areas, emphasizing environmentally friendly and efficient vegetation classification.
+
 ## Folders description
 - **Ground Truth**
 This folder contains land cover data files used as ground truth in our forest vegetation identification project. These TIFF files are crucial for validating the accuracy of our satellite image processing algorithms.
