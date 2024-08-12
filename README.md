@@ -23,8 +23,8 @@
   The methodology employs a static algorithm that combines texture features and NDVI (Normalized Difference Vegetation Index) values to effectively distinguish forested areas, emphasizing environmentally friendly and efficient vegetation classification.
 
 ## Folders description
-- **Ground Truth**
-This folder contains land cover data files used as ground truth in our forest vegetation identification project. These TIFF files are crucial for validating the accuracy of our satellite image processing algorithms.
+- **Ground Truth**  
+  This folder contains land cover data files used as ground truth in our forest vegetation identification project. These TIFF files are crucial for validating the accuracy of our satellite image processing algorithms.
 
-- **Notebooks**:
-This folder houses all Jupyter notebooks used in our project. These notebooks include scripts for data retrieval, preprocessing, satellite image analysis, and algorithm application for forest vegetation identification. Each notebook is specifically named to reflect its purpose, such as downloading satellite data, identifying specific geographic locations, or applying Grey Level Co-occurrence Matrix (GLCM) analysis.
+- **Notebooks**  
+  This folder houses all Jupyter notebooks used in our project. These notebooks include scripts for data retrieval, preprocessing, satellite image analysis, and algorithm application for forest vegetation identification. Each notebook is specifically named to reflect its purpose, such as downloading satellite data, identifying specific geographic locations, or applying Grey Level Co-occurrence Matrix (GLCM) analysis.
