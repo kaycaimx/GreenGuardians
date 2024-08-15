@@ -4,7 +4,7 @@
 
 ## Poster
 
-<img width="1136" alt="Screenshot 2024-08-12 at 08 28 35" src="https://github.com/user-attachments/assets/e8311f05-098f-4842-b936-8d6f60d7957d">
+<img width="1136" alt="Screenshot 2024-08-12 at 08 28 35" src="https://github.com/user-attachments/assets/fdf051a1-15a5-423a-8431-ca6878ae8c91">
 
 ## Project Description - Forest Vegetation Identification in British Columbia: A Static Algorithm Approach
 - **Background**  
